@@ -1,1 +1,1 @@
-# 🚀 DevOps & Infrastructure Scenarios
+# DevOps & Infrastructure Scenarios
