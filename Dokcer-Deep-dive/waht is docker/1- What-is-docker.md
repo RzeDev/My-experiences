@@ -33,7 +33,7 @@ At a high level, there are two major parts of the Docker platform:
 
 ---
 
-## 2.2 - A Simple Example
+### 2.2 - A Simple Example
 
 The user types the following command into the CLI. The CLI converts the command into an API request and sends it to the Docker daemon. The daemon then processes the request and performs the required operation.
 
