@@ -37,3 +37,10 @@ cd /etc/ld.so.conf.d/
 sudo ldconfig
 ```
 ![ptoto](Asset/4.png)
+---
+
+> ### If I am troubleshooting the library cache, I must use "***ldconfig -v***" command:
+```bash
+ldconfig -v 2> /dev/null |grep git
+```
+
